@@ -1,0 +1,81 @@
+body {
+    background-color: #EAEAEA;
+    font-family: 'Kanit', sans-serif;
+}
+.inpu{
+    width: 620px;
+    height: 100px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    resize: none
+
+}
+.file {
+    display: inline-block;
+    border-radius: 0px;
+}
+a {
+    border-radius: 8px;
+    background-color: #224CDF;
+    color:  #fff;
+    text-decoration: none;
+    display: inline-block;
+    padding: 5px 10px;
+    letter-spacing: 1px;
+    margin: 0 20px;
+    font-size: 20px;
+    transition: all 0.3s ease-in-out;
+}
+.main {
+    text-align: center;
+    margin-top: 5%
+}
+.main_1{
+    background-color: #fff;
+    border-radius: 20px;
+    display: inline-block;
+    text-align: left;
+    width: 750px;
+    padding-left: 90px;
+}
+
+.main_2{
+    background-color: #fff;
+    display: inline-block;
+    text-align: left;
+    width: 750px;
+    border-radius: 20px;
+    padding-left: 90px;
+}
+.one>p {
+    display: inline-block;
+}
+.two>p {
+    display: inline-block;
+}
+.two>span {
+    margin-left: 258px;
+    display: inline-block;
+}
+.one>span {
+    margin-left: 230px;
+    display: inline-block;
+}
+.two {
+    margin-top: -25px;
+    font-weight: bolt
+}
+.main_2>span {
+    display: inline-block;
+}
+
+span>a{
+    margin-left: 0px;
+
+}
+.name_1 {
+    margin-left: 50px;
+}
+.name {
+    margin-left: 30px;
+}

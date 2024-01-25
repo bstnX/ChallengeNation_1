@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+    font-family: 'Kanit', sans-serif;
+}
+
+.main {
+    margin-top: 18%;
+    height: 256px;
+    width: 540px;
+    display: inline-block;
+
+}
+
+.select {
+
+    background-color: #224CDF;
+    height: 256px;
+    width: 540px;
+    border-radius: 10px
+
+}
+.select_info{
+    padding-top: 10%
+}
+.sel {
+    color: #fff;
+    margin-top: -5%;
+    margin-bottom: 60px;
+    font-size: 24px;
+
+
+}
+
+a {
+    border-radius: 8px;
+    background-color: #fff;
+    color:  #224CDF;
+    text-decoration: none;
+    display: inline-block;
+    padding: 5px 10px;
+    letter-spacing: 1px;
+    margin: 0 20px;
+    font-size: 24px;
+    transition: all 0.3s ease-in-out;
+
+
+}
+
+.in_1 {
+    width: 117px;
+}

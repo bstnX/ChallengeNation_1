@@ -1,0 +1,41 @@
+body {
+   text-align: center;
+   color: #fff;
+   font-family: 'Kanit', sans-serif;
+}
+
+.main {
+    background-color: blue;
+    width: 600px;
+    display: inline-block;
+    margin-top: 5%;
+    border-radius: 20px
+}
+.main_2 {
+    margin-bottom: 20px;
+}
+
+
+p {
+        display: inline-block;
+}
+textarea {
+    border-radius: 10px;
+    margin-bottom: -15px;
+    margin-left: 20px;
+    width: 200px;
+    resize: none
+}
+
+a {
+    border-radius: 8px;
+    background-color: #fff;
+    color:  #224CDF;
+    text-decoration: none;
+    display: inline-block;
+    padding: 5px 10px;
+    letter-spacing: 1px;
+    margin: 0 20px;
+    font-size: 20px;
+    transition: all 0.3s ease-in-out;
+}
